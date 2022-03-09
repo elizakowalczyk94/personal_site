@@ -8,7 +8,7 @@ body {
 hr {
   border-style: none;
   border-top-style: dotted;
-  border-color: #FCE38A;
+  border-color: #86C6F4;
   border-width: 10px;
   width: 10%;
 }
@@ -20,7 +20,7 @@ p {
 
 h1 {
   line-height: 2;
-  color: #270082;
+  color: #313552;
   font-size: 5.625rem;
   /*100% font is 16px
   1em is 16px
@@ -30,18 +30,18 @@ h1 {
 }
 
 h2 {
-  color: #F38181;
+  color: #F47340;
   font-weight: normal;
   font-size: 3rem;
   font-family: 'Montserrat', sans-serif;
 }
 
 .intro_h2 {
-  color: #270082;
+  color: #313552;
 }
 
 h3 {
-  color: #F38181;
+  color: #F68989;
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -68,7 +68,7 @@ h3 {
 .cloud_right {
   position: absolute;
   right: 200px;
-  top: 400px;
+  top: 450px;
   height: 150px;
   width: 150px;
 }
